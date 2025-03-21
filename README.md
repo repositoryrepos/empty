@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/repositoryrepos/empty/blob/main/images/readme/title.svg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/repositoryrepos/empty/blob/main/images/readme/title.svg" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Slackrr.</h3>
